@@ -12,7 +12,7 @@ namespace MyAudit
         
         public static async Task<string> MakeSimpleGetRequestAuth(string url)
         {
-            string token = "10706~oo0QV8eXY10gHhkgmspUqNsFrq9P5TT1XnOK1N17JDNwD3wUTiCtO2uTkzFceUK9";
+          string token = Environment.GetEnvironmentVariable("API_TOKEN");
             try
             {
                 //Sets securely oupor canvas token to our http header
