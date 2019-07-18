@@ -1,0 +1,11 @@
+C:\Users\lwargha\myAuditTester\bin\Debug\netcoreapp2.2\myAuditTester.deps.json
+C:\Users\lwargha\myAuditTester\bin\Debug\netcoreapp2.2\myAuditTester.runtimeconfig.json
+C:\Users\lwargha\myAuditTester\bin\Debug\netcoreapp2.2\myAuditTester.runtimeconfig.dev.json
+C:\Users\lwargha\myAuditTester\bin\Debug\netcoreapp2.2\myAuditTester.dll
+C:\Users\lwargha\myAuditTester\bin\Debug\netcoreapp2.2\myAuditTester.pdb
+C:\Users\lwargha\myAuditTester\obj\Debug\netcoreapp2.2\myAuditTester.csprojAssemblyReference.cache
+C:\Users\lwargha\myAuditTester\obj\Debug\netcoreapp2.2\myAuditTester.csproj.CoreCompileInputs.cache
+C:\Users\lwargha\myAuditTester\obj\Debug\netcoreapp2.2\myAuditTester.AssemblyInfoInputs.cache
+C:\Users\lwargha\myAuditTester\obj\Debug\netcoreapp2.2\myAuditTester.AssemblyInfo.cs
+C:\Users\lwargha\myAuditTester\obj\Debug\netcoreapp2.2\myAuditTester.dll
+C:\Users\lwargha\myAuditTester\obj\Debug\netcoreapp2.2\myAuditTester.pdb
